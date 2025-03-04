@@ -1,1 +1,1 @@
-# Manual-Testing-Project1
+# Software-Testing-Project1
